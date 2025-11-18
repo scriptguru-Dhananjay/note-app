@@ -82,7 +82,7 @@ export default function NotesList({ notes }) {
                     }}
                   >
                     <Image
-                      src="/Delete.svg"
+                      src="/delete.svg"
                       alt="Delete"
                       width={20}
                       height={20}
